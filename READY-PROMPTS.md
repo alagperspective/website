@@ -26,7 +26,7 @@ Copy one, fill in the [brackets], paste it into Bolt. Specific requests use fewe
 
 > Change the main hero headline to: "[new text]". Change only that text.
 
-> In the Services section, under [Architecture / Interior design / Design consultancy / Construction & execution], replace the bullet points with: [list].
+> In the Services section, under [Architecture / Interior design / Design consultancy / Construction & execution], replace the three points with: [point 1], [point 2], [point 3]. Keep it to three short points.
 
 > In the FAQ, add a question "[question]" with the answer "[answer]" after "[existing question]".
 
@@ -36,6 +36,8 @@ Copy one, fill in the [brackets], paste it into Bolt. Specific requests use fewe
 
 > Make the project grid show [3] projects per row on desktop, keeping 1 per row on phones.
 
+> Reorder the home page sections to: [list the sections in order]. Don't change anything inside them.
+
 > Add a new section called "[name]" between [section] and [section], in the same style as the Process section, with this content: [ ].
 
 > Make the hero photo full width, edge to edge, with the headline on top of it in white. Keep it readable on phones.
@@ -44,4 +46,4 @@ Copy one, fill in the [brackets], paste it into Bolt. Specific requests use fewe
 
 > Check the site at 390 px phone width and fix anything that overflows sideways or overlaps. Don't change the design otherwise.
 
-> Check that the planner, project pop-up, mobile menu and WhatsApp form still work. Fix anything broken and tell me what it was.
+> Check that the consultation form, project pop-up, mobile menu, bottom bar and videos still work. Fix anything broken and tell me what it was.

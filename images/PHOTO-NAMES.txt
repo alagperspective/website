@@ -2,20 +2,18 @@ Name your photos exactly like this and upload them to this "images" folder.
 Use .jpg, about 1600 px wide, 300-500 KB each (compress free at squoosh.app).
 A photo appears on the site automatically once a file with the right name is here.
 
-HOME PAGE
-  hero.jpg          Big photo at the top (landscape)
-  portrait.jpg      Your photo in the About section (portrait)
+ALREADY ADDED (from the 2024 home shoot)
+  architects-home-1.jpg   living room (also the big photo at the top)
+  architects-home-2.jpg   master bedroom headboard
+  architects-home-3.jpg   study (also the About section photo)
+  ../videos/home-master-bedroom.mp4, home-wardrobe.mp4, home-guest-bedroom.mp4 (+ .jpg covers)
 
 PROJECTS  (-1 = main photo on the card and at the top of the case study,
            -2 and -3 = the two photos lower in the case study)
-  bungalow-for-mr-sakharwade-1.jpg   -2.jpg   -3.jpg
-  mixed-use-residence-for-mr-kapate-1.jpg   -2.jpg   -3.jpg
-  residence-for-mr-tembhurkar-1.jpg   -2.jpg   -3.jpg
-  family-home-interiors-1.jpg   -2.jpg   -3.jpg
+  A project stays hidden on the site until its -1 photo is uploaded.
   bliss-1.jpg   -2.jpg   -3.jpg
   rise-1.jpg   -2.jpg   -3.jpg
-  commercial-shop-lakhni-1.jpg   -2.jpg   -3.jpg
-  hanuman-temple-pardi-1.jpg   -2.jpg   -3.jpg
+  office-interiors-1.jpg   -2.jpg   -3.jpg
 
 Example: bliss-1.jpg, bliss-2.jpg, bliss-3.jpg
 
