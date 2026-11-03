@@ -12,15 +12,17 @@ Copy one, fill in the [brackets], paste it into Bolt. Specific requests use fewe
 
 ## Projects (content.js)
 
-> In content.js, add a new project to `P`, after "[existing project title]":
-> title: [ ], category: [Homes / Interiors / Commercial / Community], location: [ ], one-line hook: [ ], facts: Type [ ], Scope [ ], [third fact] [ ], challenge: [ ], our response: [ ], outcome: [ ], photo captions: [1], [2], [3].
-> Tell me the slug so I can name the photos.
+> In content.js, fill in the project "[Personal Office]": hook: [ ], facts: Type [ ], Scope [ ], Year [ ], challenge: [ ], our response: [ ], outcome: [ ], photo captions: [1], [2], [3], [4], [5].
 
-> In content.js, remove the project "[title]".
+> In content.js, under "Sites in Progress", fill site [1]: name [ ], place [ ], status [Under construction / Finishing / Started], two lines: [ ]. Add another site entry if needed.
 
-> In content.js, move "[title]" to be the first project.
+> In content.js, under "Competitions & Awards", fill entry [1]: name [ ], organiser/place [ ], status [Winner / Shortlisted / Entry, year], two lines: [ ].
 
-> In content.js, change the text of "[title]": [what to change].
+> In content.js, add a walk-through video to "[project]": videos/[file].mp4 with the caption "[ ]".
+
+> In content.js, move "[title]" to position [number]. Keep everything else.
+
+> In content.js, set SHOW_EMPTY to false (we're going live).
 
 ## Page text (index.html)
 
@@ -46,4 +48,4 @@ Copy one, fill in the [brackets], paste it into Bolt. Specific requests use fewe
 
 > Check the site at 390 px phone width and fix anything that overflows sideways or overlaps. Don't change the design otherwise.
 
-> Check that the consultation form, project pop-up, mobile menu, bottom bar and videos still work. Fix anything broken and tell me what it was.
+> Check that the consultation form, project pages, mobile menu, bottom bar and videos still work. Fix anything broken and tell me what it was.

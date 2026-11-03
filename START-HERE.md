@@ -4,8 +4,10 @@ This folder is your whole website. Nothing else is needed.
 
 | File | What it is |
 |---|---|
-| `index.html` | The website: design, layout and all interactive parts |
-| `content.js` | Your projects and the "Plan your project" timelines. Easy to edit. |
+| `index.html` | The home page |
+| `project.html` | One template that makes all six project pages |
+| `style.css` | Colours, fonts and layout for every page |
+| `content.js` | Your projects, reviews and planner timelines. Easy to edit. |
 | `images/` | Your photos. See `images/PHOTO-NAMES.txt` for the exact names to use. |
 | `BOLT-FIRST-MESSAGE.md` | Paste this into Bolt before asking for any change |
 | `READY-PROMPTS.md` | Copy-paste requests for common changes |
@@ -88,6 +90,10 @@ In Google Sites, open your site → **Settings** (gear icon) → **Custom domain
 3. On github.com, open `alag-website` → the `images` folder → **Add file** → **Upload files** → drag the photos in → **Commit changes**.
 
 The site shows a photo automatically as soon as a file with the right name exists. You don't need to change any code.
+
+## Before going live
+
+In `content.js`, change `const SHOW_EMPTY=true;` to `false`. Projects without a main photo and any empty "To add" boxes then disappear from the public site.
 
 ## If something breaks
 
