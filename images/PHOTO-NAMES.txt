@@ -1,0 +1,39 @@
+Name your photos exactly like this and upload them to this "images" folder.
+Use .jpg, about 1600 px wide, 300-500 KB each (compress free at squoosh.app).
+A photo appears on the site automatically once a file with the right name is here.
+
+On every project page:
+  -1.jpg        = the card photo on the home page AND the big photo at the top
+  -2.jpg, -3.jpg ... = the gallery further down (every 3rd one shows full width)
+  Want more gallery photos? Add another caption to "photos" in content.js.
+
+logo-mark.png  the logo mark above the opening headline
+lab/1.jpg, 2.jpg ...  extra photos for the moving 'material lab' strip (list them in LAB in content.js)
+hero.jpg    the big photo at the top of the home page (living room)   ADDED
+about.jpg   the photo in the About section (study)                     ADDED
+
+1  ARCHITECT'S RESIDENCE   -1 living room, -2 street front at dusk, -3 double-height living,
+                           -4 study, -5 skylight on the stair wall               ADDED
+2  OFFICE INTERIORS        -1 boardroom ... -8 prayer niche (Aug 2025 handover)  ADDED
+3  PERSONAL OFFICE         professional shoot: -1 the studio, -2 table by the window,
+                           -3 library wall, -4 guest chairs, -5 entrance and sign,
+                           -6 shelves to the ceiling, -7 credenza, -8 attached toilet   ADDED
+                           video: ../videos/personal-office-walkthrough.mp4 (+ .jpg)   ADDED
+4  RESIDENCE BEDROOMS      -1 master headboard, -2 bedroom from the landing      ADDED
+                           (more bedroom photos welcome: -3.jpg, -4.jpg ...)
+5  SITES IN PROGRESS       sites-in-progress-1.jpg (steel structure)             ADDED
+                           sites-in-progress-site-1/2/3.jpg                      ADDED
+6  COMPETITIONS & AWARDS   competitions-awards-1.jpg  top photo (ādaptive residence render)   ADDED
+   Each competition has its own slug; its photos are competitions-awards-<slug>-1.jpg, -2.jpg ...
+   ādaptive residence (Archuary 2019, 1st prize): -adaptive-residence-1 ... -7.jpg       ADDED
+     (the four scenarios and site-to-massing steps are drawn on the page, not images)
+     video: ../videos/adaptive-residence-walkthrough.mp4 (+ .jpg)                        ADDED
+   The Container Studio (2021, participation): -container-studio-1 ... -10.jpg              ADDED
+   Tetrisization: -tetrisization-1 ... -8.jpg, construction details -tetrisization-detail-1 ... -6.png   ADDED
+   Oasis (IIA national competition): -oasis-1 ... -10.jpg                                   ADDED
+   New competition? Add an entry in content.js with its own slug; it gets a card on the
+   Competitions page and its own page automatically.
+
+VIDEOS (optional, any project): put the .mp4 in the "videos" folder with a .jpg
+cover of the same name, e.g. videos/personal-office-1.mp4 + personal-office-1.jpg,
+then list it in that project's video:[...] in content.js.
