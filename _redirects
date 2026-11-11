@@ -1,0 +1,14 @@
+# Old Google Sites addresses -> new site (permanent)
+/about-us                 /#about     301
+/about-us/                /#about     301
+/contact-us               /#contact   301
+/contact-us/              /#contact   301
+/Architecture             /#projects  301
+/architecture             /#projects  301
+/Architecture/interiors   /project?p=residence-bedrooms  301
+/architecture/interiors   /project?p=residence-bedrooms  301
+/Architecture/*           /#projects  301
+/architecture/*           /#projects  301
+/blog                     /           301
+/blog/*                   /           301
+/home                     /           301

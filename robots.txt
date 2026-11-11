@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alagperspectivearchitect.in/sitemap.xml
+Sitemap: https://www.alagperspectivearchitect.in/sitemap.xml

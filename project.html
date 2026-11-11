@@ -11,6 +11,7 @@
 <link rel="stylesheet" href="style.css">
 <link rel="icon" type="image/png" href="images/favicon.png">
 <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+<link rel="canonical" href="https://www.alagperspectivearchitect.in/project">
 </head>
 <body>
 <!-- ONE TEMPLATE FOR EVERY PROJECT PAGE.
@@ -128,6 +129,7 @@ function massingHTML(steps){
 
 if(!p){$('case').innerHTML=`<div class="notfound"><span class="label">Project not found</span><h1>This project isn't on the site yet.</h1><a class="btn" href="index.html#projects">See all projects</a></div>`}
 else{
+  {const q=new URLSearchParams(location.search),u=new URL('https://www.alagperspectivearchitect.in/project');['p','e'].forEach(k=>q.get(k)&&u.searchParams.set(k,q.get(k)));document.querySelector('link[rel=canonical]').href=u.href;}
   document.title=`${E?E.name+' · '+p.title:p.title} · Alag Perspective Architects`;
   document.querySelector('meta[name=description]').content=p.hook||`${p.title}, a project by Alag Perspective Architects, Nagpur.`;
   const facts=(p.facts||[]).filter(f=>f[1]||SHOW_EMPTY);
